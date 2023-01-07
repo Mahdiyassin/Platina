@@ -1,0 +1,54 @@
+.Welcome{
+margin-top: 35px;
+font-size: 60px;
+font-weight: bold;
+color: rgb(0, 0, 0);
+font-family: 'Noto Serif', serif;
+margin-bottom: -50px;
+text-align: center;
+font-family: 'Raleway Dots', cursive;
+}
+.Enter-guest{
+font-size: 55px;
+font-weight: bold;
+color: rgb(0, 0, 0);
+font-family: 'Raleway Dots', cursive;
+text-align: center;
+}
+.book-button{
+  background-color: rgb(255, 255, 255);
+  border: none;
+  padding-right: 70px;
+  padding-bottom:17px;
+  padding-left: 70px;
+  padding-top: 17px;
+  border-radius: 18px;
+  cursor: pointer;
+  color: rgb(118, 50, 50);
+ 
+margin-left: 700px;
+  font-size: 15px;
+
+  
+}
+.book-button:hover{
+  background-color:rgb(0, 0, 0);
+  color: white;
+  transition: 0.6s;
+
+}
+.book-button:active{
+  opacity: 0.9;
+}
+
+body {
+  background-image: url(hotel1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  
+}
+  
+  
+ 
+
