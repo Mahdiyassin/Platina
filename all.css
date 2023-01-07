@@ -1,0 +1,123 @@
+.Welcome{
+  margin-top: 195px;
+  margin-left: 612px;
+color: white;
+display: inline-block;
+font-size: 45px;
+font-family: 'Playball', cursive;
+}
+.Best-place{
+  color: white;
+display:block ;
+font-size: 60px;
+margin-left: 99px;
+text-align: center;
+line-height: 58px;
+margin-top: -20px;
+}
+.book-button{
+background-color: #f8690e;
+margin-left: 780px;
+border: none;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 40px;
+padding-right: 40px;
+cursor: pointer;
+color: white;
+font-size: 17px;
+margin-top: -2px;
+font-weight: 525;
+}
+.Standard-menu{
+  text-align: center;
+  margin-bottom: 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+}
+.menu{
+  color: #f8690e;
+}
+
+.first{
+  display: flex;
+  margin-left: 30px;
+  justify-content: space-around;
+  margin-bottom: 70px;
+ 
+}
+
+
+.test1{
+  
+  color: #626A72;
+  width: 500px;
+  height: 200px;
+  display: flex;
+  display: inline-block;
+  box-shadow: 0px 0px 6px black;
+}
+.test1:hover{
+  margin-left: 4px;
+}
+.test2{
+ 
+  color: #626A72;
+  width: 500px;
+  height: 200px;
+  display: flex;
+  display: inline-block;
+  margin-bottom: 70px;
+  box-shadow: 0px 0px 6px black;
+}
+.test2:hover{
+  margin-left: 4px;
+}
+
+
+.second{
+  display: flex;
+  margin-left: 30px;
+  justify-content: space-around;
+ 
+}
+
+.salad{
+  color: black;
+margin-left: 50px;
+ font-size: 20px;
+ font-weight: 700;
+ font-family: 'Montserrat', sans-serif;
+}
+.salad2{
+  margin-left: 37px;
+  margin-top: -5pxa;
+  margin-bottom: 10px;
+  font-size: 18px;
+  
+  
+}
+.order-now{
+  color: #f8690e;
+  margin-left: 20px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 18px;
+  cursor: pointer;
+}
+.price{
+  margin-left: 127px;
+  color: #f8690e;
+}
+.price1{
+  margin-left: 150px;
+  color: #f8690e;
+}
+.price2{
+  margin-left: 260px;
+  color: #f8690e;
+}
+.price3{
+  margin-left: 270px;
+  color: #f8690e;
+}

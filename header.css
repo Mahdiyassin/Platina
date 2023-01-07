@@ -2,17 +2,23 @@
   margin-top: -6px;
   margin-left: -6px;
   margin-right: -6px;
+  height: 55px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  background-color: #dadbdd;
+ 
 }
+
 .left-section{
   align-items: center;
   display: flex;
+  
 }
 .Platina-pic{
   height: 30px;
-  margin-left: 16PX;
+  margin-left: 90PX;
+  margin-right: 24px;
   cursor: pointer;
 }
 .right-section {
@@ -21,37 +27,42 @@
   align-items: center;
   justify-content: space-between;
   flex-shrink: 0;
+
+  
+  
 }
 .HOME-icon{
   height: 24px;
-  margin-right: 40px;
+  margin-right: 50px;
   cursor: pointer;
-  color: rgb(0, 0, 0);
+  color: black;
   font-size: 17px;
+  text-decoration: none;
+  
 }
 .HOME-icon:hover{
-  color: rgb(90, 75, 75);
+  color: rgb(0, 0, 0);
 }
 .SERVICE-icon{
   height: 24px;
-  margin-right: 40px;
+  margin-right: 50px;
   cursor: pointer;
-  color: rgb(0, 0, 0);
+  color: black;
   font-size: 17px;
   text-decoration: none;
-
 }
 .SERVICE-icon:hover{
   color: rgb(0, 0, 0);
 }
 .BOOK-icon{
   height: 24px;
-  margin-right: 40px;
+  margin-right: 50px;
   cursor: pointer;
   color: rgb(0, 0, 0);
   font-size: 17px;
   text-decoration: none;
+  
 }
 .BOOK-icon:hover{
-  color: rgb(90, 75, 75);
+  color: rgb(0, 0, 0);
 }
